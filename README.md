@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Oi, eu sou Lari! 
 
-## 💠 Tecologias que eu utilizo:
+## 💠 Tecnologias que eu utilizo:
 
 
 <div style="display: inline_block gap-2"><br/>

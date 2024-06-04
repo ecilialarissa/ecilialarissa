@@ -3,11 +3,11 @@
 ## 💠 Tecnologias que utilizo:
 
 
-<div style="display:block margin-bottom: 10px"><br/>
+<div style="display:block"><br/>
 
 <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img align="center" alt="tsx" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img style="margin-bottom: 1" align="center" alt="tsx"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 <div style="display: inline_block padding-bottom: 1em "><br/>
 <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>

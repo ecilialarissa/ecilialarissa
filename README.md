@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Oi, eu sou Lari! 
+## 👩🏻‍💻 Oi! Eu sou Lari! 
 
 ## 💠 Tecnologias que eu utilizo:
 
@@ -16,3 +16,9 @@
 <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 
 </div>
+
+<br/>
+<br/>
+
+## Me siga no LinkedIn
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ecilialarissaa/)

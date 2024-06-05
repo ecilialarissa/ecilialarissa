@@ -5,6 +5,7 @@
 
 <h1>💠 Tecnologias que utilizo:</h1> 
 
+<!--
 <div>
   
    <img align="right" style="display: block margin-bottom:100px   "  
@@ -12,6 +13,7 @@
     width="55%"/>
 
 </div>
+-->
 <br/>
 
 <div align="left" style="display: inline_block margin-bottom:100px  " >  
